@@ -8,6 +8,10 @@ Dataset: UCI Iris Dataset.
 Algorithm: Linear Regression
 Dataset: Kaggle House Prices Dataset.
 
+3.  Diabetes Prediction: Predict whether a patient has diabetes based on clinical measurements such as glucose, BMI, and age.
+Algorithm: Logistic Regression
+Dataset: Pima Indians Diabetes Dataset (diabetes.csv).
+
 4.  Email Spam Classifier: Categorize emails or SMS messages as "spam" or "ham" (not spam) based on text content.
 Algorithm: Naive Bayes or Logistic Regression.
 Dataset: SMS Spam Collection.
